@@ -9,8 +9,8 @@
 
 <div>
     <a href="https://github.com/favastres">
-    <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=favastres&show_icons=true&theme=onedark">
-    <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=favastres&theme=onedark">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=favastres&show_icons=true&theme=onedark">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=favastres&theme=onedark">
 </div>
 
 
