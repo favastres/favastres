@@ -23,6 +23,8 @@
     <img align="center" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
     <img align="center" alt="iOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
     <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+    
+    ![snake gif](https://github.com/favastres/favastres/blob/output/github-contribution-grid-snake.gif)
    
 </div>
 <br/>
